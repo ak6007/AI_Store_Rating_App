@@ -6,7 +6,7 @@ const Home = () => {
             {/* Hero Section */}
             <section className="bg-blue-600 text-white py-20">
                 <div className="container mx-auto px-4 text-center">
-                    <h1 className="text-4xl md:text-5xl font-bold mb-4">Welcome to Store Rating</h1>
+                    <h1 className="text-4xl md:text-5xl font-bold mb-4">Welcome to AI Store Rating App</h1>
                     <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto">
                         Discover and rate your favorite stores. Join our community to share your experiences and help others find the best places to shop!
                     </p>
